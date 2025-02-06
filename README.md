@@ -86,3 +86,4 @@ Configs para o tema do VSCode
   "files.autoSave": "afterDelay",
   "dotenv.enableAutocloaking": false
 }
+Min Theme
